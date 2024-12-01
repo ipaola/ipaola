@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ipaola
-- 👀 I’m interested in Agile and Functionl Programming
-- 🌱 I’m currently learning Scala
+- 👀 I’m interested in Agile, Sustainability, DevSecOps, IaC, and Functionl Programming
+- 🌱 I’m currently learning DevSecOps and IaC, https://greensoftware.foundation/, Scala
 - 💞️ I’m looking to collaborate on agile way of doing stuff
 
 
